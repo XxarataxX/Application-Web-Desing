@@ -13,6 +13,6 @@
 
 ## Descripcion de Markdown
 
-titulos /# y /#/#
-negritas /*
+titulos \# y \#\#
+negritas \*\*
 
