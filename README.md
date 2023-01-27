@@ -14,5 +14,5 @@
 ## Descripcion de Markdown
 
 titulos /# y /#/#
-negritas //*//*
+negritas /*
 
